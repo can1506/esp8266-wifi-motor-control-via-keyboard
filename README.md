@@ -5,7 +5,7 @@ This project showcases a simple yet powerful motor control system using the ESP8
 How to Use:
 
     1. Connect the ESP8266 to your Wi-Fi network.
-    2. Access the web interface and use keyboard commands ('w' for forward, 's' to stop) to control the motor.
+    2. Access the web interface and use keyboard commands (press 'w' for forward and realese to stop, also press 's' to stop) to control the motor.
     3. Explore the codebase to understand and customize the functionality for your unique applications.
 
 Dependencies:
@@ -20,4 +20,3 @@ Getting Started:
     - Upload the code to your ESP8266 board.
     - Connect the motor control pins and power up the system.
     - Access the web interface and start controlling the motor wirelessly!
-    
